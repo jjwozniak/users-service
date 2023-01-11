@@ -22,7 +22,7 @@
     "cookie-parser": "^1.4.4",
     "dotenv": "^7.0.0",
     "glob": "^7.1.6",
-    "knex": "^0.20.3",
+    "knex": "^2.4.0",
     "objection": "^2.1.0",
     "pg": "^7.12.1",
     "reflect-metadata": "^0.1.13",
